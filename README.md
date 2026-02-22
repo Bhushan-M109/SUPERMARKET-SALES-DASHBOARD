@@ -1,3 +1,5 @@
+<img width="1001" height="581" alt="Screenshot 2026-02-22 at 8 29 34 AM" src="https://github.com/user-attachments/assets/c843dcf8-e5d5-4844-9744-2d04ea03f80f" />
+
 # Super Market Sales Dashboard (Power BI)
 
 ## Overview
